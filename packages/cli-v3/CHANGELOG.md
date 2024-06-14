@@ -1,5 +1,14 @@
 # trigger.dev
 
+## 3.0.0-beta.38
+
+### Patch Changes
+
+- d4ccdf710: Add an e2e suite to test compiling with v3 CLI.
+- Updated dependencies [c405ae711]
+- Updated dependencies [c405ae711]
+  - @trigger.dev/core@3.0.0-beta.38
+
 ## 3.0.0-beta.37
 
 ### Patch Changes

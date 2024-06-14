@@ -1,5 +1,12 @@
 # internal-platform
 
+## 3.0.0-beta.38
+
+### Patch Changes
+
+- c405ae711: Make deduplicationKey required when creating/updating a schedule
+- c405ae711: Added timezone support to schedules
+
 ## 3.0.0-beta.37
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @trigger.dev/sveltekit
 
+## 3.0.0-beta.38
+
+### Patch Changes
+
+- Updated dependencies [c405ae711]
+  - @trigger.dev/sdk@3.0.0-beta.38
+
 ## 3.0.0-beta.37
 
 ### Patch Changes

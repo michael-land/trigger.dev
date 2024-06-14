@@ -1,5 +1,15 @@
 # @trigger.dev/sdk
 
+## 3.0.0-beta.38
+
+### Patch Changes
+
+- c405ae711: Added timezone support to schedules
+- Updated dependencies [c405ae711]
+- Updated dependencies [c405ae711]
+  - @trigger.dev/core@3.0.0-beta.38
+  - @trigger.dev/core-backend@3.0.0-beta.38
+
 ## 3.0.0-beta.37
 
 ### Patch Changes
